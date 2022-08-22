@@ -1,0 +1,49 @@
+# Logs
+purchase/logs
+purchase/*.log
+purchase/npm-debug.log*
+purchase/yarn-debug.log*
+purchase/yarn-error.log*
+purchase/pnpm-debug.log*
+purchase/lerna-debug.log*
+purchase/node_modules
+purchase/dist
+purchase/dist-ssr
+purchase/*.local
+purchase/coverage
+purchase/# Editor directories and files
+purchase/.vscode/*
+purchase/.history/*
+purchase/!.vscode/extensions.json
+purchase/.idea
+purchase/.DS_Store
+purchase/*.suo
+purchase/*.ntvs*
+purchase/*.njsproj
+purchase/*.sln
+purchase/*.sw?
+
+# Logs
+payment/logs
+payment/*.log
+payment/npm-debug.log*
+payment/yarn-debug.log*
+payment/yarn-error.log*
+payment/pnpm-debug.log*
+payment/lerna-debug.log*
+payment/node_modules
+payment/dist
+payment/dist-ssr
+payment/*.local
+payment/coverage
+payment/# Editor directories and files
+payment/.vscode/*
+payment/.history/*
+payment/!.vscode/extensions.json
+payment/.idea
+payment/.DS_Store
+payment/*.suo
+payment/*.ntvs*
+payment/*.njsproj
+payment/*.sln
+payment/*.sw?
